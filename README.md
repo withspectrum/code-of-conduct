@@ -33,7 +33,7 @@ Harassment includes:
 
 ## Reporting
 
-If you are being harassed by a member of the Spectrum community, notice that someone else is being harassed, or have any other concerns, please contact one of the Spectrum team members. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member of the Spectrum community, notice that someone else is being harassed, or have any other concerns, please contact one of the Spectrum team members. (support@spectrum.chat) If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
 This code of conduct applies to Spectrum-sponsored spaces, but if you are being harassed by a member of the Spectrum community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Spectrum community members seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the Spectrum community based on their past behavior, including behavior outside Spectrum spaces and behavior towards people who are not in the Spectrum community.
 
