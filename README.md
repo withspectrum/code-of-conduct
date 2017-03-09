@@ -48,6 +48,11 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If a participant engages in harassing behavior, the Spectrum team may take any action they deem appropriate, up to and including expulsion from all Spectrum spaces and identification of the participant as a harasser to other Spectrum community members or the general public.
 
+## Diversity Statement
+
+Spectrum welcomes and encourages participation by everyone.
+
+No matter how you identify yourself or how others perceive you: we welcome you. We welcome contributions from everyone as long as they interact constructively with our communities.
 
 ## Adopt a code of conduct in your community
 
