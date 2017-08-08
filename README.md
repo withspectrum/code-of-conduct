@@ -2,7 +2,7 @@
 
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-Spectrum is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, race, ethnicity, nationality, or religion. We do not tolerate harassment of participants in any form.
+Spectrum is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of participants in any form.
 
 This code of conduct applies to all Spectrum-sponsored spaces, including our [community](https://spectrum.chat), [open-source projects](https://github.com/withspectrum), and other spaces that Spectrum hosts, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Spectrum team.
 
@@ -13,7 +13,7 @@ Some Spectrum-sponsored spaces may have additional rules in place, which will be
 
 Harassment includes:
 
-* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, race, ethnicity, nationality, or religion
+* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 * Deliberate misgendering or use of ‘dead’ or rejected names
 * Gratuitous or off-topic sexual images or behaviour  in spaces where they’re not appropriate
